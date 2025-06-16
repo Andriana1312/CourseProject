@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\CoursePartTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\CoursePartTwo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\CoursePartTwo.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\CoursePartTwo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\CoursePartTwo\bin\Debug\net8.0\CoursePartTwo.exe
+C:\Users\User\Desktop\C#\CoursePartTwo\bin\Debug\net8.0\CoursePartTwo.deps.json
+C:\Users\User\Desktop\C#\CoursePartTwo\bin\Debug\net8.0\CoursePartTwo.runtimeconfig.json
+C:\Users\User\Desktop\C#\CoursePartTwo\bin\Debug\net8.0\CoursePartTwo.dll
+C:\Users\User\Desktop\C#\CoursePartTwo\bin\Debug\net8.0\CoursePartTwo.pdb
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\CoursePartTwo.dll
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\refint\CoursePartTwo.dll
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\CoursePartTwo.pdb
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\CoursePartTwo.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\CoursePartTwo\obj\Debug\net8.0\ref\CoursePartTwo.dll
