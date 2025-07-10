@@ -371,16 +371,16 @@ namespace CoursePartTwo
 
             #region Lesson25,SOLID_PART_TWO
 
-            HumanWorker human = new HumanWorker();
-            RobotWorker robot = new RobotWorker();
+            //HumanWorker human = new HumanWorker();
+            //RobotWorker robot = new RobotWorker();
 
-            human.Work();
-            human.Eat();
-            robot.Work();
+            //human.Work();
+            //human.Eat();
+            //robot.Work();
 
             #endregion
 
-
+           
         }
     }
 }
